@@ -29,4 +29,4 @@ Also, it occurs to me that on some planet somewhere, possibly this one, two comp
 
 Eventually, the first mirror image to develop racemases would wipe out the other, and we would have the world much as it is today, dominated by a single handedness in all optically active biological things.
 
-**Consigned forever to the cupboard of unprovable hypotheses.**
+**"Consigned forever to the cupboard of unprovable hypotheses!"**

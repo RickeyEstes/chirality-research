@@ -1,6 +1,7 @@
 [![DOI](https://zenodo.org/badge/253116792.svg)](https://zenodo.org/badge/latestdoi/253116792)
 
-**Thought Experiment: Evolution of Chirality in Biological Systems and Organisms.**
+**Thought Experiment: Evolution of Chirality in Biological Systems and Organisms.**  
+***Author: Siddhant Sharma***
 
 This is a very deep philosophical conundrum, to answer it we would need to know how life originated from non-living chemical precursors.
 
@@ -28,4 +29,4 @@ Also, it occurs to me that on some planet somewhere, possibly this one, two comp
 
 Eventually, the first mirror image to develop racemases would wipe out the other, and we would have the world much as it is today, dominated by a single handedness in all optically active biological things.
 
-**Consigned forever to the cupboard of unprovable hypotheses.  - Siddhant Sharma**
+**Consigned forever to the cupboard of unprovable hypotheses.**

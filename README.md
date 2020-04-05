@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/253116792.svg)](https://zenodo.org/badge/latestdoi/253116792)
 
 **Thought Experiment: Evolution of Chirality in Biological Systems and Organisms.**  
-***Author: Siddhant Sharma***
+***Author: Siddhant Sharma*** :pencil: :bulb:
 
 This is a very deep philosophical conundrum, to answer it we would need to know how life originated from non-living chemical precursors.
 

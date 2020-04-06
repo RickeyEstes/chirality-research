@@ -9,7 +9,7 @@ Many compounds produced by living organisms are chiral, this is because they are
 
 **Of course, this begs the question of why the enzyme binding site only exists in one chiral configuration?**
 
-In undergraduate organic chemistry courses, we are taught that both enantiomers of a choral molecule (e.g., alanine) are equal in energy. Therefore, it is expected that all of our enzymes, sugars, etc. should be racemic (50:50 mixture). However, at some point in the timeline one enantiomer was amplified and now biology is chiral and really good at keeping it that way. Current research efforts are focused on understanding how chiral amplification occurred ( **see Donna Blackmond&#39;s work at Scripos La Jolla** ) as well as how to deracemize a racemic mixture ( **see Rob Knowles and Scott Miller&#39;s paper in Science for a recent example** ).
+In undergraduate organic chemistry courses, we are taught that both enantiomers of a chiral molecule (e.g., alanine) are equal in energy. Therefore, it is expected that all of our enzymes, sugars, etc. should be racemic (50:50 mixture). However, at some point in the timeline one enantiomer was amplified and now biology is chiral and really good at keeping it that way. Current research efforts are focused on understanding how chiral amplification occurred ( **see Donna Blackmond&#39;s work at Scripos La Jolla** ) as well as how to deracemize a racemic mixture ( **see Rob Knowles and Scott Miller&#39;s paper in Science for a recent example** ).
 
 Also, for the same reason that practically all screws and nuts are threaded with the same chirality. (You turn the screw clockwise to screw it in, counter clockwise to unscrew it out.)
 

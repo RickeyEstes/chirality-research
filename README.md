@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/253116792.svg)](https://zenodo.org/badge/latestdoi/253116792)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3785680.svg)](https://doi.org/10.5281/zenodo.3785680)
 
 **Thought Experiment: Evolution of Chirality in Biological Systems and Organisms.**  
 ***Author: Siddhant Sharma*** :pencil: :bulb:
